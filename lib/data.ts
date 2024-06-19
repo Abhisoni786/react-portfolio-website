@@ -55,7 +55,7 @@ export const experiencesData = [
     location: "Houston, TX",
     description:
       "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
-    icon: React.createElement(FaReact),
+    icon: React.createElement(CgWorkAlt),
     date: "2021 - present",
   },
 ] as const;
@@ -84,24 +84,24 @@ export const projectsData = [
   },
 ] as const;
 
-export const skillsData = [
-  "HTML",
-  "CSS",
-  "JavaScript",
-  "TypeScript",
-  "React",
-  "Next.js",
-  "Node.js",
+export const skillsData =[
+  "Java 8",
+  "Spring MVC",
+  "Spring boot",
+  "MySql",
+  "Hibernate",
+  "ExtJs",
+  "Javascript",
+  "PHP",
   "Git",
-  "Tailwind",
-  "Prisma",
-  "MongoDB",
-  "Redux",
-  "GraphQL",
-  "Apollo",
-  "Express",
-  "PostgreSQL",
-  "Python",
-  "Django",
-  "Framer Motion",
+  "Jira",
+  "Agile",
+  "Pull request merging",
+  "JDBC",
+  "JSON",
+  "Bitbucket",
+  "Junit",
+  "Eclipse",
+  "SOLID",
+  "Tag creation"
 ] as const;
